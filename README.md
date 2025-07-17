@@ -21,7 +21,10 @@ Applying residual neural network (ResNet) to classify optical coherence tomograp
 
 Spring 2024
 
-nnUnet, liver tumor segmentation
+liver tumor segmentation
+
+Fully automatic: nnUnet training
+Semi automatic: MedSAM box method and point method
 
 ---
 3) BMEG3103 - Big Data in Health Care
