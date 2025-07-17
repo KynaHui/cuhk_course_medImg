@@ -1,10 +1,24 @@
-Hello, I add these files for record only. 
-
+The Chinese University of Hong Kong (CUHK)
 ---
+
 CUHK course work:  
 
-BMEG4320 - AI & Imaging for Biomedical Engineering  
+1) BMEG4320 - AI & Imaging for Biomedical Engineering  
 
-BMEG3910 - Undergraudate Research Course  
+2) BMEG3910 - Undergraudate Research Course  
 
-BMEG3103 - Big Data in Health Care
+3) BMEG3103 - Big Data in Health Care
+
+---
+1) BMEG4320 - AI & Imaging for Biomedical Engineering
+
+Fall 2023
+
+Applying residual neural network (ResNet) to classify optical coherence tomography (OCT) images, and thus enabling to diagnose eye diseases.
+
+---
+2) BMEG3910 - Undergraudate Research Course  
+
+Spring 2024
+
+nnUnet, liver tumor segmentation
