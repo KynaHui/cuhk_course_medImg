@@ -26,6 +26,8 @@ nnUnet, liver tumor segmentation
 ---
 3) BMEG3103 - Big Data in Health Care
 
+Fall 2025
+
 Ensemble learning with different deep learning model
 
  VGG 16, ResNet101, EfficientNet, AlexNet
