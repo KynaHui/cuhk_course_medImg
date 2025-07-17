@@ -22,3 +22,7 @@ Applying residual neural network (ResNet) to classify optical coherence tomograp
 Spring 2024
 
 nnUnet, liver tumor segmentation
+
+---
+3) BMEG3103 - Big Data in Health Care
+Ensemble learning with different classifiers 
